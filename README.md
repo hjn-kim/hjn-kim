@@ -52,6 +52,7 @@ AI Agent를 연구하고 여러 Agent를 활용한 프로그램을 제작하는 
 
 ### 📧 이메일
 > **mphk0207@naver.com**
+> 
 > **C211052@g.hongik.ac.kr**
 
 ---
