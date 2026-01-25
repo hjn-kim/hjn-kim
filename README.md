@@ -33,14 +33,17 @@ AI Agent를 연구하고 여러 Agent를 활용한 프로그램을 제작하는 
 
 > ### [Top Restraunt](https://github.com/hjn-kim/topres)
 > 나만의 맛집 저장 리스트
+> 
 > ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 > ### [Video_To_Script](https://github.com/hjn-kim/video_to_script)
-> 영상 분석 멀티모달 LLM 
+> 영상 분석 멀티모달 LLM
+> 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 > ### [Voice_Translator](https://github.com/hjn-kim/video_translator)
 > 음성 한국어 -> 영어 번역기
+> 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
