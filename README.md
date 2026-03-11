@@ -45,7 +45,6 @@ AI Agent를 개발하여 AI를 활용한 프로그램을 제작하는 것에 관
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 
-
 ---
 
 ## 🗂️ Highlight Projects
@@ -64,7 +63,7 @@ AI Agent를 개발하여 AI를 활용한 프로그램을 제작하는 것에 관
 
 > ### [Video_To_Script](https://github.com/hjn-kim/video_to_script)
 >
-> 영상을 업로드하면 멀티모달 LLM이 내용을 분석해 스크립트를 자동 생성하고 기존 대본과 유사도 측정 모델 
+> 영상을 업로드하면 멀티모달 LLM이 내용을 분석해 스크립트를 자동 생성하고 기존 대본과 유사도 측정 모델
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 
@@ -78,7 +77,7 @@ AI Agent를 개발하여 AI를 활용한 프로그램을 제작하는 것에 관
 >
 > 늦은 시간 영업중인 카페를 한번에 찾을 수 있는 웹 서비스
 >
-> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 > ### [Voice_Translator](https://github.com/hjn-kim/video_translator)
 >
