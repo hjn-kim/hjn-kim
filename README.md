@@ -79,7 +79,7 @@ AI Agent를 개발하여 AI를 활용한 프로그램을 제작하는 것에 관
 >
 > ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-> ### [Voice_Translator](https://github.com/hjn-kim/video_translator)
+> ### [Voice_Translator](https://github.com/hjn-kim/voice_translator)
 >
 > 마이크 입력 한국어 음성을 실시간으로 영어로 번역해주는 웹 애플리케이션
 >
@@ -116,4 +116,5 @@ AI Agent를 개발하여 AI를 활용한 프로그램을 제작하는 것에 관
 ![GitHub Streak](https://streak-stats.demolab.com?user=hjn-kim&theme=dark)
 
 ---
+
 
