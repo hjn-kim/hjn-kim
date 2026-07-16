@@ -55,7 +55,7 @@ AI Agent를 개발하여 AI를 활용한 프로그램을 제작하는 것에 관
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-> ### [AIIDEA](https://github.com/hjn-kim/contextManager)
+> ### [contextManger](https://github.com/hjn-kim/contextManager)
 >
 > 실시간으로 임상 대화의 중요도를 판단하여 저장, 제거를 판단하는 모델 연구
 >
